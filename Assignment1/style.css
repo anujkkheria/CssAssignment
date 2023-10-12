@@ -1,0 +1,85 @@
+.BD-container{
+    background-color: #1de592;
+    width:25%;
+    padding: 16px 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 15px;
+    font-weight: 600;
+    margin: 14px auto;
+    box-sizing: border-box;
+}
+.BD-Title{
+font-size: 50px;
+}
+.BD-text{
+  font-size: 13px;
+}
+.BD-btn{
+    padding:14px 30px;
+    border-radius: 100px;
+    font-weight: 800;
+    border: none;
+    margin: 5px;
+}
+.profile-main-container{
+    border: 1px solid lightgray;
+    box-sizing: border-box;
+    width:50%;
+    margin:10px auto;
+    border-radius: 10px;
+}
+.profile-Container{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:14px 20px;
+}
+.photos-Container{
+    margin:1px auto;
+}
+.photos{
+    width: 90px;
+    border-radius: 150px;
+    height:90px;
+    margin:14px 100px;
+}
+.see-profiles{
+    border-top: 1px solid lightgray;
+    padding:"14px 10px"
+}
+.sprofile-text{
+    font-size: 24px;
+    color:#3581eb;
+    margin: 15px 25px;
+}
+
+.subscription-container{
+    width:40%;
+    border:1px solid lightgrey;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin:15px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.subs-img{
+    width:100%
+}
+.subs-text-container{
+    padding:50px;
+    color:gray
+}
+.subs-text-1{
+    font-size: 24px;
+}
+.subs-text-2{
+font-size: 36px;
+color: black;
+}
+.subs-text-3{
+    font-size: 24px;
+}
+.subs-details-btn{
+    font-size: 24px;
+    padding:14px 30px;
+    background: #fff;
+    color: #3581eb;
+    border: 1px solid lightgray;
+}
